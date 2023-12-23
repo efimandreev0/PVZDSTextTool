@@ -1,0 +1,7 @@
+C:\Users\zZz\source\repos\PVZNDS\bin\Debug\PVZNDS.exe.config
+C:\Users\zZz\source\repos\PVZNDS\bin\Debug\PVZNDS.exe
+C:\Users\zZz\source\repos\PVZNDS\bin\Debug\PVZNDS.pdb
+C:\Users\zZz\source\repos\PVZNDS\obj\Debug\PVZNDS.csproj.AssemblyReference.cache
+C:\Users\zZz\source\repos\PVZNDS\obj\Debug\PVZNDS.csproj.CoreCompileInputs.cache
+C:\Users\zZz\source\repos\PVZNDS\obj\Debug\PVZNDS.exe
+C:\Users\zZz\source\repos\PVZNDS\obj\Debug\PVZNDS.pdb
